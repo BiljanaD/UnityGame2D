@@ -5,6 +5,9 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+# Notepad Files
+.txt
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
